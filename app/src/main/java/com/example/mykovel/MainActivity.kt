@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         },3000, )
-        //SplashScreen to
+        //SplashScreen   to
     }
 }
